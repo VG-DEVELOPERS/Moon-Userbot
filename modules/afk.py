@@ -25,7 +25,7 @@ AUTO_GRAB = False
 API_ID = int(db.get("core.config", "API_ID", 123456))
 API_HASH = db.get("core.config", "API_HASH", "your_api_hash")
 STRING_SESSION = db.get("core.config", "STRING_SESSION", "your_string_session")
-BOT_USERNAME = db.get("core.config", "BOT_USERNAME", "@MudaeBot")  # Change if needed
+BOT_USERNAME = db.get("core.config", "BOT_USERNAME", "@Fancy_Waifu_Husbando_Bot")  # Change if needed
 API_URL = db.get("core.config", "API_URL", "http://cheatbot.twc1.net/getName")
 API_TOKEN = db.get("core.config", "API_TOKEN", "TEST-API-TOKEN")
 
